@@ -1,2 +1,2 @@
 # Social-Network-Application
-Console based Social Network Application (Facebook replica) in C++
+Console based Social Network Application in C++
